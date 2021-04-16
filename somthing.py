@@ -1,7 +1,3 @@
-'''
-    1180505035 beytullah topuz
-    sayısal görüntü işleme hafta 6 ödev
-'''
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QFileDialog
 from PyQt5.QtGui import QImage
