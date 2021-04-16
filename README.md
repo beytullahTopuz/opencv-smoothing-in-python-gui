@@ -1,0 +1,1 @@
+# opencv-smoothing-in-python-gui
